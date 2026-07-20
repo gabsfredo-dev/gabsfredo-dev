@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Gabriel Sfredo, tenho 26 anos e sou natural de Minas Gerais. Concluí o de Marketing Digital na Doctum de Juiz de Fora - MG. Atualmente, estou cursando Ciência da Computação pela Estácio. Sou apaixonado por tecnologia e no desenvolvimento Web focado em Websites e aplicatiovs Mobile. Nos meus estudos eu gosto de juntar meu conhecimento em Marketing e Design com o meu conhecido de Programção focado na Front-End.
+Me chamo Gabriel Sfredo, tenho 26 anos e sou natural de Minas Gerais. Concluí o curso de Marketing Digital na Doctum de Juiz de Fora - MG. Atualmente, estou cursando Ciência da Computação pela Estácio. Sou apaixonado por tecnologia e no desenvolvimento Web focado em Websites e aplicatiovs Mobile. Nos meus estudos eu gosto de juntar meu conhecimento em Marketing e Design com o meu conhecido de Programção focado na Front-End.
 ---
 
 ### 🤖 Linguagens e Tecnologias
